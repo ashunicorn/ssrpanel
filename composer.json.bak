@@ -25,7 +25,7 @@
         "rap2hpoutre/laravel-log-viewer": "^1.0",
         "riverslei/payment": "*",
         "spatie/laravel-permission": "^2.29",
-        "youzanyun/open-sdk": "^2.0"
+        "youzan/open-sdk": "^1.0"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
@@ -73,7 +73,7 @@
 	"repositories": {
         "packagist": {
             "type": "composer",
-            "url": "https://packagist.phpcomposer.com"
+            "url": "https://packagist.laravel-china.org"
         }
     },
     "minimum-stability": "dev",
