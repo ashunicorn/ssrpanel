@@ -43,3 +43,15 @@ Support but not limited to: Shadowsocks,ShadowsocksR,ShadowsocksRR,V2Ray
 ## License
 
 SSRPanel is open-sourced software licensed under the MIT license.
+
+## To-do List
+- Auto Certification
+- V2Ray Support
+- nginx Path bug fix
+    create these folders under storage/framework:
+    sessions
+    views
+    cache
+- anti-robot
+- more encrypt method
+- more servers
