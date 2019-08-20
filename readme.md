@@ -55,3 +55,4 @@ SSRPanel is open-sourced software licensed under the MIT license.
 - anti-robot
 - more encrypt method
 - more servers
+- mail notification
